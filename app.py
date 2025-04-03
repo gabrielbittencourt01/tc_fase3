@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Carregar o modelo treinado
-modelo = joblib.load(r"C:/Users/gtebi/OneDrive/Documentos/pos_fiap/fase3/TechChallenge/best_model_optimized.pkl")
+modelo = joblib.load("best_model_optimized.pkl")
 
 
 st.title("Predição de Diabetes")
