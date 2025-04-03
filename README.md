@@ -31,7 +31,7 @@ Este é um aplicativo desenvolvido com **Streamlit** para prever a probabilidade
 ### 2️⃣ **Acessando Online**
 
 O aplicativo pode ser acessado diretamente pelo link:
-👉 **[App Online](https://seu-usuario.streamlit.app)**
+👉 **[App Online](https://modeloprevisaodiabetestcfase3.streamlit.app/)**
 
 ---
 
