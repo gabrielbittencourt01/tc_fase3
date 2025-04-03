@@ -1,0 +1,11 @@
+boto3
+flask
+kagglehub
+lightgbm
+matplotlib
+numpy
+pandas
+pathlib
+pickle-mixin
+scikit-learn
+seaborn
