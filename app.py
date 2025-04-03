@@ -49,6 +49,6 @@ if st.button("Verificar probabilidade de diabetes"):
     probabilidade = modelo.predict_proba(input_data)[0][1] * 100
 
     if resultado == 1:
-        st.error(f"Alerta: Há uma alta chance de diabetes ({probabilidade:.2f}%). Consulte um médico.")
+        st.error(f"Alerta: Há uma alta chance de diabetes. Consulte um médico.")
     else:
-        st.success(f"Boa notícia! A chance de diabetes é baixa ({probabilidade:.2f}%). Continue com hábitos saudáveis.")
+        st.success(f"Boa notícia! A chance de diabetes é baixa. Continue com hábitos saudáveis.")
