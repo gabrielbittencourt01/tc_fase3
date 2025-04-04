@@ -57,7 +57,7 @@ O modelo utilizado foi treinado utilizando **Machine Learning** para prever a pr
 
 ## 📑 Documentação do Notebook
 
-O notebook (`pos_tech_fase3 copy.ipynb`) contém:
+O notebook (`modelo.ipynb`) contém:
 - Análise exploratória dos dados.
 - Pré-processamento e limpeza dos dados.
 - Treinamento e avaliação dos modelos de Machine Learning.
